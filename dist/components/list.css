@@ -181,11 +181,11 @@ ol.ui.list ol li,
 .ui.list .list > a.item,
 .ui.list > a.item {
   cursor: pointer;
-  color: #4183C4;
+  color: #1E78BB;
 }
 .ui.list .list > a.item:hover,
 .ui.list > a.item:hover {
-  color: #1e70bf;
+  color: #0769b1;
 }
 
 /* Linked Item Icons */
@@ -198,11 +198,11 @@ ol.ui.list ol li,
 .ui.list .list > .item a.header,
 .ui.list > .item a.header {
   cursor: pointer;
-  color: #4183C4 !important;
+  color: #1E78BB !important;
 }
 .ui.list .list > .item a.header:hover,
 .ui.list > .item a.header:hover {
-  color: #1e70bf !important;
+  color: #0769b1 !important;
 }
 
 /* Floated Content */
@@ -366,7 +366,7 @@ ol.ui.list ol li,
 }
 .ui.inverted.list .list > a.item:hover,
 .ui.inverted.list > a.item:hover {
-  color: #1e70bf;
+  color: #0769b1;
 }
 
 /* Linking Content */
@@ -374,7 +374,7 @@ ol.ui.list ol li,
   color: rgba(255, 255, 255, 0.9) !important;
 }
 .ui.inverted.list .item a:not(.ui):hover {
-  color: #1e70bf !important;
+  color: #0769b1 !important;
 }
 
 /*-------------------
@@ -882,7 +882,7 @@ ol.ui.horizontal.list li:before,
 --------------------*/
 
 .ui.mini.list {
-  font-size: 0.78571429em;
+  font-size: 0.71428571em;
 }
 .ui.tiny.list {
   font-size: 0.85714286em;
@@ -907,7 +907,7 @@ ol.ui.horizontal.list li:before,
 }
 .ui.mini.horizontal.list .list > .item,
 .ui.mini.horizontal.list > .item {
-  font-size: 0.78571429rem;
+  font-size: 0.71428571rem;
 }
 .ui.tiny.horizontal.list .list > .item,
 .ui.tiny.horizontal.list > .item {

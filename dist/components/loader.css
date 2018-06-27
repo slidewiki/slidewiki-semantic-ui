@@ -215,7 +215,7 @@
 .ui.mini.loader {
   width: 1rem;
   height: 1rem;
-  font-size: 0.78571429em;
+  font-size: 0.71428571em;
 }
 .ui.inverted.dimmer .ui.tiny.loader,
 .ui.tiny.loader {
@@ -263,35 +263,35 @@
 /* Text Loader */
 .ui.mini.text.loader {
   min-width: 1rem;
-  padding-top: 1.78571429rem;
+  padding-top: 1.71428571rem;
 }
 .ui.tiny.text.loader {
   min-width: 1.14285714rem;
-  padding-top: 1.92857143rem;
+  padding-top: 1.85714286rem;
 }
 .ui.small.text.loader {
   min-width: 1.71428571rem;
-  padding-top: 2.5rem;
+  padding-top: 2.42857143rem;
 }
 .ui.text.loader {
   min-width: 2.28571429rem;
-  padding-top: 3.07142857rem;
+  padding-top: 3rem;
 }
 .ui.large.text.loader {
   min-width: 3.42857143rem;
-  padding-top: 4.21428571rem;
+  padding-top: 4.14285714rem;
 }
 .ui.big.text.loader {
   min-width: 3.71428571rem;
-  padding-top: 4.5rem;
+  padding-top: 4.42857143rem;
 }
 .ui.huge.text.loader {
   min-width: 4.14285714rem;
-  padding-top: 4.92857143rem;
+  padding-top: 4.85714286rem;
 }
 .ui.massive.text.loader {
   min-width: 4.57142857rem;
-  padding-top: 5.35714286rem;
+  padding-top: 5.28571429rem;
 }
 
 /*-------------------
